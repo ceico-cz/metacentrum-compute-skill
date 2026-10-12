@@ -1,0 +1,4 @@
+interface:
+  display_name: "MetaCentrum"
+  short_description: "Use MetaCentrum securely from ChatGPT or Codex"
+  default_prompt: "Use $metacentrum to help me prepare and run a MetaCentrum PBS job."

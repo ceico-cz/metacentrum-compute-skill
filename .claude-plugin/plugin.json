@@ -1,0 +1,12 @@
+{
+  "name": "metacentrum",
+  "version": "0.1.0",
+  "description": "Use the MetaCentrum (CESNET e-INFRA CZ) grid from Claude: account, Kerberos/SSH access, storage, and OpenPBS CPU/GPU jobs.",
+  "author": {
+    "name": "CEICO",
+    "url": "https://github.com/ceico-cz"
+  },
+  "homepage": "https://github.com/ceico-cz/metacentrum-compute-skill",
+  "repository": "https://github.com/ceico-cz/metacentrum-compute-skill",
+  "keywords": ["metacentrum", "hpc", "pbs", "openpbs", "kerberos", "gpu"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ceico-metacentrum",
+  "owner": {
+    "name": "CEICO",
+    "url": "https://github.com/ceico-cz"
+  },
+  "metadata": {
+    "description": "MetaCentrum compute skill for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "metacentrum",
+      "source": "./",
+      "description": "Use the MetaCentrum grid from Claude: account, Kerberos/SSH access, storage, and OpenPBS CPU/GPU jobs."
+    }
+  ]
+}
